@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John",
+      "role": "office boy"
+    },
+    {
+      "id": 2,
+      "name": "Doe",
+      "role": "secretary"
+    },
+    {
+      "id": "3",
+      "name": "Darren",
+      "role": "admin"
+    }
+  ],
+  "articles": [
+    {
+      "id": 1,
+      "title": "React",
+      "description": "Belajar React"
+    },
+    {
+      "id": 2,
+      "title": "Redux",
+      "description": "Belajar Redux"
+    }
+  ]
+}
